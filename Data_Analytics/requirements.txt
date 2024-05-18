@@ -1,0 +1,16 @@
+streamlit
+wordcloud
+pandas
+plotly
+matplotlib
+Pillow
+numpy
+Nltk
+wordcloud
+sumy
+vaderSentiment
+
+
+
+
+
